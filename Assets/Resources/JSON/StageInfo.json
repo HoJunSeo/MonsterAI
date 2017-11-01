@@ -1,0 +1,34 @@
+{
+	"STAGE_INFO": {
+		"1": {
+			"NAME": "맵1",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 10
+		},
+		"2": {
+			"NAME": "맵2",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 60
+		},
+		"3": {
+			"NAME": "맵3",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 10
+		},
+		"4": {
+			"NAME": "맵4",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 60
+		},
+		"5": {
+			"NAME": "맵5",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 10
+		}
+	}
+}
